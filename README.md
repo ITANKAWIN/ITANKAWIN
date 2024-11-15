@@ -76,8 +76,6 @@
 
 ## 💬 Let's Connect!
 - ✉️ Email: [kawin.suangkaew@gmail.com](mailto:kawin.suangkaew@gmail.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- 🌐 Website: [Your Personal Website](https://your-website.com)
 
 ---
 
