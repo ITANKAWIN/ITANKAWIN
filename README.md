@@ -1,4 +1,3 @@
-
 # 👋 Hi there! I'm Kawin Suangkaew (ITANKAWIN) 🚀
 
 🌐 **Full-stack Developer** | 🛠️ **API & Database Specialist** | 🌱 **Open Source Enthusiast**
@@ -24,6 +23,7 @@
 ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-FF6347?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 
 ### ☁️ **Cloud Services & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
@@ -78,4 +78,3 @@
 - ✉️ Email: [kawin.suangkaew@gmail.com](mailto:kawin.suangkaew@gmail.com)
 
 ---
-
